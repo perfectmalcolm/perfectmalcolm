@@ -38,10 +38,20 @@ Helping users find the best price-to-performance value for electronics.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=perfectmalcolm&show_icons=true&theme=tokyonight" alt="Malcolm's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=perfectmalcolm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Malcolm's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perfectmalcolm&theme=tokyonight" alt="Malcolm's GitHub Streak" />
+</p>
+
+---
+
+### 💻 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perfectmalcolm&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Top Languages" />
 </p>
 
 ---
