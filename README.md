@@ -52,8 +52,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=perfectmalcolm&theme=tokyonight&background=050505&border=ffffff10" alt="Malcolm's GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perfectmalcolm&layout=compact&theme=tokyonight&hide_langs=html,css,jupyter%20notebook&bg_color=050505&border_color=ffffff10" alt="Top Languages" />
 </div>
 
 ---
