@@ -18,23 +18,23 @@ I build software that bridges the gap between complex problems and simple, elega
 
 ### 🌟 Featured Projects
 
-#### ⚡ [Transbolt (OneUp)](https://github.com/perfectmalcolm/transbolt)
+#### ⚡ [OneUp](https://developer-malcolm.web.app/oneup)
 **The Smart Layer for M-PESA.**
 An Android utility that automates USSD interactions using a custom Accessibility Engine.
+*   **Demo:** [developer-malcolm.web.app/oneup](https://developer-malcolm.web.app/oneup)
 *   **Tech:** Kotlin, MVVM, Accessibility Services, Room DB.
-*   **Core:** Natural command execution (e.g., `pay 500 to Till 123456`) and privacy-first SMS analytics.
 
-#### 🕵️ [LostPhoneKE](https://github.com/perfectmalcolm/lostphoneke)
+#### 🕵️ [LostPhoneKE](https://lostphoneke.web.app/)
 **Community-Powered Device Recovery.**
-A platform for reporting and verifying stolen electronics in Kenya to reduce illegal trade.
+A platform for reporting and verifying stolen electronics in Kenya.
+*   **Live:** [lostphoneke.web.app](https://lostphoneke.web.app/)
 *   **Tech:** Next.js 16, Firebase, Tailwind CSS.
-*   **Core:** Real-time search, secure reporting, and a minimal "Nothing OS" inspired UI.
 
-#### 🤖 [SpecSense](https://github.com/perfectmalcolm/SpecSense)
+#### 🤖 [SpecSense](https://specsense-c3c45bad.web.app/)
 **AI-Driven Gadget Recommender.**
 Helping users find the best price-to-performance value for electronics.
-*   **Tech:** FastAPI, React, PostgreSQL, Google Custom Search API.
-*   **Core:** Custom AI ranking logic for "Best Value" and "Flagship Performance."
+*   **Live:** [specsense-c3c45bad.web.app](https://specsense-c3c45bad.web.app/)
+*   **Tech:** FastAPI, React, PostgreSQL.
 
 ---
 
