@@ -1,65 +1,69 @@
-# 👋 Hi, I'm Malcolm Kioko!
-### Software Engineer | Full-Stack & Android Specialist 🚀
+<div align="center">
 
-I build software that bridges the gap between complex problems and simple, elegant solutions. From high-performance Android utilities to AI-driven web ecosystems, I focus on creating tools that have a real-world impact.
+# Malcolm Kioko
+### Software Developer in Nairobi • Cloud Architect • Backend Engineer
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-developer--malcolm.web.app-white?style=for-the-badge&logo=vercel&logoColor=black)](https://developer-malcolm.web.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malcolm--Kioko-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malcolm-k-877a50250/)
+[![GitHub](https://img.shields.io/badge/GitHub-perfectmalcolm-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/perfectmalcolm)
+
+<br/>
+
+> "I build software that bridges the gap between complex problems and simple, elegant solutions. Technology is best when it stays out of the way and just works."
+
+</div>
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Engineered Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black) |
-| **Mobile** | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin) |
-| **Cloud/DB** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.logo/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Frontend** | `Next.js 16` `React` `Tailwind CSS` `TypeScript` `Shadcn/UI` |
+| **Backend** | `FastAPI` `Node.js` `Python` `Drizzle ORM` `SQLAlchemy` |
+| **Mobile** | `Kotlin` `Android Native` `Coroutines` `Accessibility Services` |
+| **Cloud/Infra** | `Firebase` `Google Cloud Platform` `PostgreSQL` `Docker` |
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Featured Solutions
 
-#### ⚡ [OneUp](https://developer-malcolm.web.app/oneup)
-**The Smart Layer for M-PESA.**
-An Android utility that automates USSD interactions using a custom Accessibility Engine.
-*   **Demo:** [developer-malcolm.web.app/oneup](https://developer-malcolm.web.app/oneup)
-*   **Tech:** Kotlin, MVVM, Accessibility Services, Room DB.
+#### ⚡ [OneUp (The Smart Layer for M-PESA)](https://developer-malcolm.web.app/oneup)
+**Problem:** USSD menus are slow and insecure.  
+**Solution:** A high-performance Android utility that replaces clunky menus with a fast, secure, command-driven interface.  
+**Impact:** Features "Stealth Mode" for PIN privacy and automated wealth tracking.  
+*`Kotlin` `MVVM` `Android Accessibility Services` `Room DB`*
 
-#### 🕵️ [LostPhoneKE](https://lostphoneke.web.app/)
-**Community-Powered Device Recovery.**
-A platform for reporting and verifying stolen electronics in Kenya.
-*   **Live:** [lostphoneke.web.app](https://lostphoneke.web.app/)
-*   **Tech:** Next.js 16, Firebase, Tailwind CSS.
+#### 🕵️ [LostPhoneKE (Community Recovery Platform)](https://lostphoneke.web.app/)
+**Problem:** High phone theft rates in Nairobi with no way to verify ownership.  
+**Solution:** A secure national IMEI registry and reporting platform built with Next.js 16.  
+**Impact:** Provides transparency in the second-hand market and aids law enforcement in recovery.  
+*`Next.js 16` `Firebase` `Tailwind CSS` `TypeScript`*
 
-#### 🤖 [SpecSense](https://specsense-c3c45bad.web.app/)
-**AI-Driven Gadget Recommender.**
-Helping users find the best price-to-performance value for electronics.
-*   **Live:** [specsense-c3c45bad.web.app](https://specsense-c3c45bad.web.app/)
-*   **Tech:** FastAPI, React, PostgreSQL.
+#### 🤖 [SpecSense (AI-Driven Gadget Recommender)](https://specsense-c3c45bad.web.app/)
+**Problem:** Tech consumers struggle to compare complex specs and local pricing.  
+**Solution:** An AI-powered system that searches the web and ranks gadgets by price-to-performance value.  
+**Impact:** Simplifies electronics purchasing with real-time data and "Best Value" rankings.  
+*`FastAPI` `React` `PostgreSQL` `Google Custom Search API`*
 
 ---
 
 ### 📊 My GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perfectmalcolm&theme=tokyonight" alt="Malcolm's GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=perfectmalcolm&theme=tokyonight&background=050505&border=ffffff10" alt="Malcolm's GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perfectmalcolm&layout=compact&theme=tokyonight&hide_langs=html,css,jupyter%20notebook&bg_color=050505&border_color=ffffff10" alt="Top Languages" />
+</div>
 
 ---
 
-### 💻 Top Languages
+### 📫 Connect with me
+I'm always open to discussing cloud architecture, scalable backend systems, or innovative web projects.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perfectmalcolm&layout=compact&theme=tokyonight&hide_langs=html,css,jupyter%20notebook" alt="Top Languages" />
-</p>
+- **Personal Website:** [developer-malcolm.web.app](https://developer-malcolm.web.app)
+- **Email:** malcolmmutuku@gmail.com
 
----
-
-### 📫 Let's Connect!
-
-*   **Email:** [malcolmmutuku@gmail.com](mailto:malcolmmutuku@gmail.com)
-*   **LinkedIn:** [linkedin.com/in/malcolm-k-877a50250](https://www.linkedin.com/in/malcolm-k-877a50250/)
-*   **Website:** [developer-malcolm.web.app](https://developer-malcolm.web.app/)
-
----
-
-> "Technology is best when it brings people together." – *Let's build something meaningful.*
+<div align="center">
+  <sub>Built with ❤️ by Malcolm Kioko | "He is Yeshua"</sub>
+</div>
